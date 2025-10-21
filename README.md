@@ -721,6 +721,8 @@ That will make your digital-analog theory a rigorous branch of computational phy
 
 If you’d like, I can sketch out one complete example—a **digital state-variable filter derived directly from a Hamiltonian**, showing how its discrete update law conserves energy exactly. Would you like me to write that out?
 
+# IT IS NOT MY WORK YOU KNOW
+
 # Reference
 
 https://www.native-instruments.com/fileadmin/ni_media/downloads/pdf/VAFilterDesign_1.1.1.pdf
